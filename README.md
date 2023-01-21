@@ -18,3 +18,6 @@
 <img src="https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=MUI&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/nginx-009639?style=flat-square&logo=nginx&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>
+</br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaehokim12&theme=swift&show_icons=true)
